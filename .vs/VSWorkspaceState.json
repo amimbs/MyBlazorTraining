@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazorApp"
   ],
-  "SelectedNode": "\\C:\\projects\\personal\\MyBlazorTraining",
+  "SelectedNode": "\\BlazorApp\\BlazorApp.sln",
   "PreviewInSolutionExplorer": false
 }

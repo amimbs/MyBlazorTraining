@@ -1,0 +1,2 @@
+# MyBlazorTraining
+.NET Blazor training
